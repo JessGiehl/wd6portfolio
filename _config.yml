@@ -8,10 +8,6 @@ url: "https://jessgiehl.github.io/wd6portfolio/" # the base hostname & protocol 
 city: Orlando
 state: FL
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 1
-
 # social settings
 github_url: https://github.com/JessGiehl
 
