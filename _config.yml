@@ -3,8 +3,8 @@ title: JessGiehl
 subtitle: Fullstack Webdev Student
 email: jwgiehl@student.fullsail.edu
 description: A portfolio of works by Jessica Giehl.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+baseurl: "/home" # the subpath of your site, e.g. /blog
+url: "https://jessgiehl.github.io" # the base hostname & protocol for your site
 author:
 city: Orlando
 state: FL
