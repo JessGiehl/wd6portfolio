@@ -4,7 +4,7 @@ subtitle: Fullstack Webdev Student
 email: jwgiehl@student.fullsail.edu
 description: A portfolio of works by Jessica Giehl.
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "https://jessgiehl.github.io" # the base hostname & protocol for your site
+url: "https://jessgiehl.github.io/wd6portfolio/" # the base hostname & protocol for your site
 city: Orlando
 state: FL
 
