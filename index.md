@@ -1,11 +1,10 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: home
-title: Home
-landing-title: 'Hi, my name is Jess'
-description: null
-image: null
-author: null
-show_tile: false
 ---
 
-My name is Jessica Giehl, I'm a web development student at Fullsail University in Orlando, Fl. 
+Hi, my name is Jessica Giehl. I'm a fullstack developer and student in the web developement degree at Fullsail University.
+
+![Photo of me](./assets/images/photo.png "Photo of me")
